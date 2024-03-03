@@ -21,7 +21,7 @@ const Home = () => {
           </p>
           <p>In today's fast-paced digital landscape, standing out is not just an option-it's a necessity. At Creation Media, we specialize in crafting ads that not only catch the eye but also capture the hearts and minds of your target audience</p>
           <button className="secondary-button">
-            Boost your Buisness <FiArrowRight />{" "}
+            {/* Boost your Buisness <FiArrowRight />{" "} */}
           </button>
         </div>
         <div className="home-image-section">
