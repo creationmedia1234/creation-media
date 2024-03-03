@@ -29,9 +29,8 @@ const Footer = () => {
         </div>
         <div className="footer-section-columns">
           <span>+918327680216</span>
-          <span>Creation.media@gmail.com</span>
+          <span>Creation.mediaa@gmail.com</span>
           <span>IBC Knowledge park,
-            
           </span>
           <span>phase 2, 9th floor,
             Banglore, Karnataka, 560029</span>
